@@ -1,0 +1,12 @@
+[submodule "hoshi-reader"]
+	path = hoshi-reader
+	url = https://github.com/steindekker/Hoshi-Reader-Android.git
+	branch = codex/seamless-setup
+[submodule "chimahon"]
+	path = chimahon
+	url = https://github.com/steindekker/chimahon.git
+	branch = codex/hoshi-card
+[submodule "hoshi-card"]
+	path = hoshi-card
+	url = https://github.com/steindekker/hoshi-card.git
+	branch = main
