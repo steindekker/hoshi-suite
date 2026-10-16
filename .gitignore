@@ -1,0 +1,8 @@
+server/pack-builder/target/
+server/pack-server/target/
+server/anki-enrich/.venv/
+server/anki-enrich/dicts/
+server/anki-enrich/var/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
