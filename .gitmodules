@@ -5,7 +5,7 @@
 [submodule "chimahon"]
 	path = chimahon
 	url = https://github.com/steindekker/chimahon.git
-	branch = codex/hoshi-card
+	branch = main
 [submodule "hoshi-card"]
 	path = hoshi-card
 	url = https://github.com/steindekker/hoshi-card.git
